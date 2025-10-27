@@ -1,0 +1,8 @@
+path: /home/sokol/Documents/csharp
+path: /home/sokol/Documents/csharp/scratch
+Program.cs	512
+scratch.csproj	242
+path: /home/sokol/Documents/csharp/test
+Program.cs	67
+test.csproj	242
+path: /home/sokol/Documents/csharp/s3-csharp-lab4
