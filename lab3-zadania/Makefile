@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -g -lpthread -lm
 TARGET = main
-SOURCES = 2.c
+SOURCES = 3.c
 OBJECTS = $(SOURCES:.c=.o)
 
 all: $(TARGET)
